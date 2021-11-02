@@ -58,7 +58,7 @@ def traducirHTML(archivoXML, archivoHTML):
             #elif (element.tag == "altitud"):
             #   html += "<p>Latitud: " + element.text + "</p>"
             elif(element.tag == "video"):
-                html+="<video src='media/"+element.tag+"' controls preload='auto'> Vídeo </video>"
+                html+="<video src='media/"+element.tag+"' controls preload='auto' alt='Un video'> Vídeo </video>"
             else:
                 html += "<p>"
                 html += element.text
