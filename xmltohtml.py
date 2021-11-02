@@ -1,8 +1,9 @@
 import xml.etree.ElementTree as ET
 
+
 def traducirHTML(archivoXML, archivoHTML):
     try:
-        tree = ET.parse("tarea1.xml")
+        tree = ET.parse(archivoXML)
     except IOError:
         print('No se encuentra el archivo ', archivoXML)
         exit()
@@ -53,10 +54,10 @@ def traducirHTML(archivoXML, archivoHTML):
                 html += "<p>Latitud: " + element.text + "</p>"
             elif (element.tag == "longitud"):
                 html += "<p>Longitud: " + element.text + "</p>"
-            #elif (element.tag == "altitud"):
+            # elif (element.tag == "altitud"):
             #   html += "<p>Latitud: " + element.text + "</p>"
-            elif(element.tag == "video"):
-                html += "<video src='media/"+element.text+"' controls preload='auto'> Video </video>"
+            elif (element.tag == "video"):
+                html += "<video src='media/" + element.text + "' controls preload='auto'> Video </video>"
             else:
                 html += "<p>"
                 html += element.text
@@ -69,10 +70,10 @@ def traducirHTML(archivoXML, archivoHTML):
 
 
 def main():
-    # archivoXML = input('Introduzca un archivo XML = ')
-    # archivoSalida=input('Introduzca el nombre del archivo HTML=')
-    archivoXML = "tarea1.xml"
-    archivoSalida = "index.html"
+    archivoXML = input('Introduzca un archivo XML = ')
+    archivoSalida = input('Introduzca el nombre del archivo HTML=')
+    # archivoXML = "arbol.xml"
+    # archivoSalida = "index.html"
     traducirHTML(archivoXML, archivoSalida)
 
 

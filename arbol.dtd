@@ -1,5 +1,5 @@
-<!ELEMENT personas (persona+)>
-<!ELEMENT persona (datos,persona?,persona?)>
+<!ELEMENT personas (persona)>
+<!ELEMENT persona (datos,(persona,persona)?)>
 <!ELEMENT datos (fechaNacimiento,lugarNacimiento,coordenadasNacimiento,fechaFallecimiento*,lugarFallecimiento*,coordenadasFallecimiento*,fotografia+,video*,comentario)>
 <!ELEMENT fechaNacimiento (#PCDATA)>
 <!ELEMENT lugarNacimiento (#PCDATA)>
