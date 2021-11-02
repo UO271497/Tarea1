@@ -9,11 +9,13 @@ h1{
     font-size: larger;
     font-family: Verdana,Tahoma, sans-serif;
     font-weight: bold;
+    gap: 10px;
 }
 h2{
     font-size: large;
     font-family: Verdana,Tahoma, sans-serif;
     font-weight: bold;
+    gap: 10px;
 }
 h3{
     font-family: Verdana,Tahoma, sans-serif;
