@@ -1,6 +1,4 @@
 import xml.etree.ElementTree as ET
-import io
-
 
 def traducirHTML(archivoXML, archivoHTML):
     try:
@@ -58,7 +56,7 @@ def traducirHTML(archivoXML, archivoHTML):
             #elif (element.tag == "altitud"):
             #   html += "<p>Latitud: " + element.text + "</p>"
             elif(element.tag == "video"):
-                html += "<video src='media/"+element.tag+"' controls preload='auto'> Video </video>"
+                html += "<video src='media/"+element.text+"' controls preload='auto'> Video </video>"
             else:
                 html += "<p>"
                 html += element.text

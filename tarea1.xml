@@ -14,7 +14,6 @@
 <altitud>relativeToGround</altitud>
 </coordenadasNacimiento>
 <fotografia>fotoMiguelYo.jpg</fotografia>
-    <video>videoMiguel.mp4</video>
 <comentario>Yo, el autor de este documento</comentario>
 </datos>
 <persona nombre="Miguel Ángel" apellidos="Suárez García">
@@ -100,6 +99,7 @@
 <altitud>relativeToGround</altitud>
 </coordenadasNacimiento>
 <fotografia>fotoGabinoAbuelo.jpg</fotografia>
+    <video>video.mp4</video>
 <comentario>Mi abuelo por parte de padre</comentario>
 </datos>
 <persona nombre="Teresa" apellidos="González Sánchez">
