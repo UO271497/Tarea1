@@ -1,0 +1,45 @@
+body {
+    color:white;
+    background-color: rgb(34, 32, 32);
+    grid-auto-flow: row;
+    font-size: larger;
+    text-align:center;
+}
+h1{
+    font-size: larger;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bold;
+}
+h2{
+    font-size: large;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bold;
+}
+h3{
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:medium;
+    color:red;
+    background-color: rgb(34, 32, 32);
+}
+h4{
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bold;
+    font-size:small;
+    color:lightblue;
+    background-color: rgb(34, 32, 32);
+}
+p{
+    font-size:smaller
+}
+img{
+    width:10%;
+    height: auto;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}

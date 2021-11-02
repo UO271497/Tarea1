@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "arbol.dtd">
+<personas>
+<persona nombre="Miguel" apellidos="Suárez Artime">
+<datos>
+<fechaNacimiento>22/05/2000</fechaNacimiento>
+<lugarNacimiento>Gijón</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+43.5453
+</longitud>
+<latitud>
+-5.66193</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoMiguelYo.jpg</fotografia>
+    <video>videoMiguel.mp4</video>
+<comentario>Yo, el autor de este documento</comentario>
+</datos>
+<persona nombre="Miguel Ángel" apellidos="Suárez García">
+<datos>
+<fechaNacimiento>21/11/1972</fechaNacimiento>
+<lugarNacimiento>Avilés</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+43.5558
+</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoMiguelPadre.jpg</fotografia>
+<comentario>Mi padre</comentario>
+</datos>
+<persona nombre="Olga" apellidos="García Fernández">
+<datos>
+<fechaNacimiento>21/11/1950</fechaNacimiento>
+<lugarNacimiento>Avilés</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoOlgaAbuela.jpg</fotografia>
+<comentario>Mi abuela por parte de padre</comentario>
+</datos>
+<persona nombre="María" apellidos="Fernández Suárez">
+<datos>
+<fechaNacimiento>15/02/1923</fechaNacimiento>
+<lugarNacimiento>León</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+42.60003
+</longitud>
+<latitud>
+-5.57032</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>24/9/2000</fechaFallecimiento>
+<lugarFallecimiento>Avilés</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoMariaBisabuela.jpg</fotografia>
+<comentario>Mi bisabuela, nacida en León</comentario>
+</datos>
+</persona>
+<persona nombre="Jose Luis" apellidos="García Huerta">
+<datos>
+<fechaNacimiento>8/06/1919</fechaNacimiento>
+<lugarNacimiento>Asturias</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+43.3603
+</longitud>
+<latitud>
+-5.84476</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>2/12/1987</fechaFallecimiento>
+<lugarFallecimiento>Avilés</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoJoseLuisBisabuelo.jpg</fotografia>
+<comentario>Mi bisabuelo</comentario>
+</datos>
+</persona>
+</persona>
+<persona nombre="Gabino" apellidos="Suárez González">
+<datos>
+<fechaNacimiento>21/11/1950</fechaNacimiento>
+<lugarNacimiento>Avilés</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoGabinoAbuelo.jpg</fotografia>
+<comentario>Mi abuelo por parte de padre</comentario>
+</datos>
+<persona nombre="Teresa" apellidos="González Sánchez">
+<datos>
+<fechaNacimiento>19/2/1915</fechaNacimiento>
+<lugarNacimiento>Asturias</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+43.3603
+</longitud>
+<latitud>
+-5.84476</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>1/1/1985</fechaFallecimiento>
+<lugarFallecimiento>Oviedo</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>
+43.3603
+</longitud>
+<latitud>
+-5.84476</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoTeresaBisabuela.jpg</fotografia>
+<comentario>Mi bisabuela, nacida en Oviedo</comentario>
+</datos>
+</persona>
+<persona nombre="Antonio" apellidos="García Gómez">
+<datos>
+<fechaNacimiento>08/09/1919</fechaNacimiento>
+<lugarNacimiento>Ourense</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>42.34</longitud>
+<latitud>-7.86464</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>13/8/1992</fechaFallecimiento>
+<lugarFallecimiento>Avilés</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoAntonioBisabuelo.jpg</fotografia>
+<comentario>Mi bisabuelo</comentario>
+</datos>
+
+</persona>
+
+</persona>
+</persona>
+<persona nombre="María del Carmen" apellidos="Artime López">
+<datos>
+<fechaNacimiento>23/9/1973</fechaNacimiento>
+<lugarNacimiento>Avilés</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>
+43.5558
+</longitud>
+<latitud>
+-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoMariaMadre.jpg</fotografia>
+<comentario>Mi madre</comentario>
+</datos>
+<persona nombre="Álvaro" apellidos="Artime Argüelles">
+<datos>
+<fechaNacimiento>11/5/1945</fechaNacimiento>
+<lugarNacimiento>Gozón</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>43.6129</longitud>
+<latitud> -5.84593</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>10/9/1988</fechaFallecimiento>
+<lugarFallecimiento>Gozón</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.6129</longitud>
+<latitud>-5.84593</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoAlvaroAbuelo.jpg</fotografia>
+<comentario>Mi abuelo por parte de madre, pescador</comentario>
+</datos>
+<persona nombre="Carmen" apellidos="Argüelles Argüelles">
+<datos>
+<fechaNacimiento>21/11/1930</fechaNacimiento>
+<lugarNacimiento>Avilés</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>43.5558</longitud>
+<latitud>-5.92762</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>30/3/2000</fechaFallecimiento>
+<lugarFallecimiento>Gozón</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.6129</longitud>
+<latitud>-5.84593</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoCarmenBisabuela.jpg</fotografia>
+<comentario>Otra bisabuela de Gozon</comentario>
+</datos>
+</persona>
+<persona nombre="Jesús" apellidos="Artime Peña">
+<datos>
+<fechaNacimiento>11/11/1924</fechaNacimiento>
+<lugarNacimiento>Gozón</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>43.6129</longitud>
+<latitud>-5.84593</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>10/9/1985</fechaFallecimiento>
+<lugarFallecimiento>Gozón</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>43.6129</longitud>
+<latitud>-5.84593</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoJesusBisabuelo.jpg</fotografia>
+<comentario>Otro bisabuelo de Gozón</comentario>
+</datos>
+</persona>
+</persona>
+<persona nombre="Mercedes" apellidos="López Billén">
+<datos>
+<fechaNacimiento>28/4/1948</fechaNacimiento>
+<lugarNacimiento>Córdoba</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>37.8847</longitud>
+<latitud>-4.77915</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fotografia>fotoMercedesAbuela.jpg</fotografia>
+<comentario>Mi abuela por parte de madre</comentario>
+</datos>
+<persona nombre="Juan Carlos" apellidos="López López">
+<datos>
+<fechaNacimiento>11/11/1920</fechaNacimiento>
+<lugarNacimiento>Córdoba</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>37.8847</longitud>
+<latitud> -4.77915</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>1/1/1986</fechaFallecimiento>
+<lugarFallecimiento>Sevilla</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>37.3826</longitud>
+<latitud>-5.99629</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoJuanCarlosBisabuelo.jpg</fotografia>
+<comentario>Otro bisabuelo de Andalucía</comentario>
+</datos>
+</persona>
+<persona nombre="Mercedes" apellidos="Billén Pérez">
+<datos>
+<fechaNacimiento>11/11/1921</fechaNacimiento>
+<lugarNacimiento>Córdoba</lugarNacimiento>
+<coordenadasNacimiento>
+<longitud>37.8847</longitud>
+<latitud>-4.77915</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasNacimiento>
+<fechaFallecimiento>12/11/1986</fechaFallecimiento>
+<lugarFallecimiento>Córdoba</lugarFallecimiento>
+<coordenadasFallecimiento>
+<longitud>37.8847</longitud>
+<latitud>-5.99629</latitud>
+<altitud>relativeToGround</altitud>
+</coordenadasFallecimiento>
+<fotografia>fotoMercedesBisabuela.jpg</fotografia>
+<comentario>Otra bisabuela de Andalucía</comentario>
+</datos>
+</persona>
+</persona>
+
+</persona>
+</persona>
+</personas>
