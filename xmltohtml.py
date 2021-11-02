@@ -74,7 +74,7 @@ def main():
     # archivoXML = input('Introduzca un archivo XML = ')
     # archivoSalida=input('Introduzca el nombre del archivo HTML=')
     archivoXML = "tarea1.xml"
-    archivoSalida = "salida.html"
+    archivoSalida = "index.html"
     traducirHTML(archivoXML, archivoSalida)
 
 
